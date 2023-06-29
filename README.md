@@ -1,7 +1,10 @@
 ### Hi there 👋
 🔭 I’m currently working on my final project for Code First Girls Coding Kickstarter Web Dev Course
+
 🌱 I’m currently learning Git!
+
 📫 How to reach me: catherinealicewood@outlook.com
+
 ⚡ Fun fact: I love knitting and crochet!
 
 <!--
