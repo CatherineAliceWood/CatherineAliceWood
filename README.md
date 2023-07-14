@@ -1,8 +1,8 @@
 ### Hello! 👋
 
-🔭 I’m currently working on my portfolio!
+🔭 I’m currently studying on Dr Angela Yu's Complete 2023 Web Dev Bootcamp!
 
-🌱 I’m currently learning Git!
+🌱 I’m currently learning CSS display properties!
 
 📫 How to reach me: catherinealicewood@outlook.com
 
