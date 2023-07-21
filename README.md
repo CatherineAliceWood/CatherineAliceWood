@@ -2,7 +2,7 @@
 
 🔭 I’m currently studying on Dr Angela Yu's Complete 2023 Web Dev Bootcamp!
 
-🌱 I’m currently learning CSS display properties!
+🌱 I’m currently learning Javascript prompts!
 
 📫 How to reach me: catherinealicewood@outlook.com
 
