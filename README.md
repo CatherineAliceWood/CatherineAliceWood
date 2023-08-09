@@ -1,8 +1,8 @@
 ### Hello! 👋
 
-🔭 I’m currently studying on Dr Angela Yu's Complete 2023 Web Dev Bootcamp!
+🔭 I’m currently studying on some Code First Girls MOOCS, Udemy Bootcamp, Scrimba Frontend Dev Career Path and Mimo Web Dev!
 
-🌱 I’m currently learning Javascript prompts!
+🌱 I’m currently learning about APIs!
 
 📫 How to reach me: catherinealicewood@outlook.com
 
