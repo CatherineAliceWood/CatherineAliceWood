@@ -2,10 +2,10 @@
 I started learning to code in May 2023
 ## I'm currently studying 🔭 
 - some Code First Girls MOOCS
-- Udemy Bootcamp
 - Scrimba Frontend Dev Career Path
 - Mimo Web Dev
 ## Completed courses:
+- Udemy Bootcamp
 - Code First Girls Intro to Data MOOC
 - Code First Girls Intro to Web Dev 8 week course
 
