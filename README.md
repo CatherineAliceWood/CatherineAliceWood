@@ -1,5 +1,6 @@
 # Hi! 👋 I'm Cat and I'm training to become a software developer
 I started learning to code in May 2023
+Visit My Portfolio [https://catherinealicewood.github.io/Catherine-Wood/]
 ## I'm currently...
 - studying on the Code First Girls Software Engineering Nano Degree sponsored by Admiral
 - on the Cajigo 100 Women in Tech Mentoring Programme
