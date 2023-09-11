@@ -1,10 +1,12 @@
 # Hi! 👋 I'm Cat and I'm training to become a software developer
 I started learning to code in May 2023
-## I'm currently studying 🔭 
-- some Code First Girls MOOCS
-- Scrimba Frontend Dev Career Path
-- Mimo Web Dev
+## I'm currently 
+- studying on the Code First Girls Software Engineering Nano Degree 🔭
+- on the Cajigo 100 Women in Tech Mentoring Programme
+- on the Reed Women in Tech Mentoring Programme
 ## Completed courses:
+- Code First Girls Career Development MOOC
+- Code First Girls Agile and Scrum MOOC
 - Udemy Bootcamp
 - Code First Girls Intro to Data MOOC
 - Code First Girls Intro to Web Dev 8 week course
