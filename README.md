@@ -1,4 +1,4 @@
-# Hi! 👋 I'm Cat and I'm training to become a software developer
+# Hi! 👋 I'm Cat and I'm a software developer
 I started learning to code in May 2023
 
 Visit My Portfolio [https://catherinealicewood.github.io/Catherine-Wood/](https://catherinealicewood.github.io/Catherine-Wood/)
