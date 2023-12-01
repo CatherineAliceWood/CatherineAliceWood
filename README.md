@@ -7,16 +7,17 @@ Visit My Portfolio [https://catherinealicewood.github.io/Catherine-Wood/](https:
 - on the Cajigo 100 Women in Tech Mentoring Programme
 - on the Reed Women in Tech Mentoring Programme
 ## Completed courses:
-- Code First Girls Web App Security MOOC
-- Solo Learn SQL Intermediate
-- Solo Learn Into to SQL
-- Code First Girls iOS Development MOOC
-- Code First Girls Career Development MOOC
-- Code First Girls Agile and Scrum MOOC
-- Mimo Web Dev Career Path
-- Udemy Bootcamp
-- Code First Girls Intro to Data MOOC
-- Code First Girls Web Dev 8 week course
+- **Code First Girls** Machine Learning MOOC
+- **Code First Girls** Web App Security MOOC
+- **Solo Learn** SQL Intermediate
+- **Solo Learn** Into to SQL
+- **Code First Girls** iOS Development MOOC
+- **Code First Girls** Career Development MOOC
+- **Code First Girls** Agile and Scrum MOOC
+- **Mimo** Web Dev Career Path
+- **Udemy** Bootcamp
+- **Code First Girls** Intro to Data MOOC
+- **Code First Girls** Web Dev 8 week course
 
 How to reach me 📫 catherinealicewood@outlook.com
 
