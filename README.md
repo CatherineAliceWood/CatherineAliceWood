@@ -4,7 +4,7 @@ I started learning to code in May 2023
 Visit My Portfolio [https://catherinealicewood.github.io/Catherine-Wood/](https://catherinealicewood.github.io/Catherine-Wood/)
 ## I'm currently...
 - studying on the Code First Girls Software Engineering Nano Degree, sponsored by BT
-- on the Cajigo 100 Women in Tech Mentoring Programme
+- on the Cajigo 2023 100 Women in Tech Accelerator Programme
 - on the Reed Women in Tech Mentoring Programme
 ## Completed courses:
 - **Code First Girls** Machine Learning MOOC
