@@ -1,7 +1,7 @@
 # Hi! 👋 I'm Catherine and I'm a software engineer
 I started learning to code in May 2023 and my first job in tech in Jan 2024!
 
-Visit My Portfolio [https://catherinealicewood.github.io/Catherine-Wood/](https://catherinealicewood.github.io/Catherine-Wood/)
+Visit My Portfolio [here](https://catherinealicewood.github.io/Catherine-Wood/)
 ## I'm currently...
 - in my first role as a software engineer
 ## Completed courses:
