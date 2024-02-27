@@ -1,12 +1,12 @@
-# Hi! 👋 I'm Catherine and I'm a software developer
-I started learning to code in May 2023
+# Hi! 👋 I'm Catherine and I'm a software engineer
+I started learning to code in May 2023 and my first job in tech in Jan 2024!
 
 Visit My Portfolio [https://catherinealicewood.github.io/Catherine-Wood/](https://catherinealicewood.github.io/Catherine-Wood/)
 ## I'm currently...
-- studying on the Code First Girls Software Engineering Nano Degree, sponsored by BT
-- on the Cajigo 2023 100 Women in Tech Accelerator Programme
-- on the Reed Women in Tech Mentoring Programme
+- in my first role as a software engineer
 ## Completed courses:
+- **Cajigo** 2023 100 Women in Tech Accelerator Programme
+- **Code First Girls** Software Engineering Nano Degree - Distinction
 - **Code First Girls** Machine Learning MOOC
 - **Code First Girls** Web App Security MOOC
 - **Solo Learn** SQL Intermediate
@@ -18,8 +18,6 @@ Visit My Portfolio [https://catherinealicewood.github.io/Catherine-Wood/](https:
 - **Udemy** Bootcamp
 - **Code First Girls** Intro to Data MOOC
 - **Code First Girls** Web Dev 8 week course
-
-How to reach me 📫 catherinealicewood@outlook.com
 
 ⚡ Fun fact: I love knitting and crochet!
 
