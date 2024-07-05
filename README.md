@@ -7,8 +7,8 @@ I started learning to code in May 2023 and started my first job in tech in Jan 2
 ## I am a graduate of:
 - **Cajigo** 2023 100 Women in Tech Accelerator Programme
 - **Code First Girls** Software Engineering Nano Degree - Distinction
-
-⚡ About me: when I'm not writing code I love knitting and crochet, DIY, openworld games, gardening, woodland walks and going to the beach.
+## About me: 
+When I'm not writing code I love knitting and crochet, DIY, openworld games, gardening, woodland walks and going to the beach.
 
 ### Technical Skills:
 ![Ansible](https://img.shields.io/badge/ansible-%231A1918.svg?style=for-the-badge&logo=ansible&logoColor=white)
